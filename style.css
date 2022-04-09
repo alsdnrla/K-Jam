@@ -130,6 +130,9 @@ kbd {
   
 }
 
+.title_promotion{
+  padding-right: 100px;
+}
 
 
 Imag {
@@ -243,6 +246,9 @@ footer {
   padding: 50px; 10px;  
   margin-right: 0px;
   margin-left: 0px;
+  }
+  .title_promotion{
+  padding-right: 0px;
   }
 }
 
